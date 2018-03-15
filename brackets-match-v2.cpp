@@ -4,7 +4,6 @@
  * Author: Hussama Ismail <hussama.ismail@gmail.com>
  * Date: 15/03/2018
  */
- /* check whether the brackets match */
 
 #include <iostream>
 #include <string>
